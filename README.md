@@ -1,58 +1,72 @@
 # Silent Setup - Sharp Edition
-Silent Setup Platform
 
-It offers an infrastructure that automatically detects silent installation parameters of the software you want to install on your computer. This feature makes the installation process more efficient and seamless for users. Additionally, thanks to the category management feature provided by the platform, users can organize and access their applications in the way they desire. Providing convenience to users in both installation and management processes, this platform is an ideal solution for professional users.
+Silent Setup is a platform designed to streamline the installation process of software on your computer. With its automatic detection of silent installation parameters, this platform enables users to install applications more efficiently and seamlessly.
 
-# Application Add Modes
-# Copy
-When this option is selected, a copy of the added application is made.
+## Key Features
 
-<svg fill="white" height="22px" version="1.1" viewBox="0 0 21 22" width="21px" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:xlink="http://www.w3.org/1999/xlink"><title/><desc/><defs/><g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"><g fill="#000000" id="Core" transform="translate(-86.000000, -127.000000)"><g id="content-copy" transform="translate(86.500000, 127.000000)"><path d="M14,0 L2,0 C0.9,0 0,0.9 0,2 L0,16 L2,16 L2,2 L14,2 L14,0 L14,0 Z M17,4 L6,4 C4.9,4 4,4.9 4,6 L4,20 C4,21.1 4.9,22 6,22 L17,22 C18.1,22 19,21.1 19,20 L19,6 C19,4.9 18.1,4 17,4 L17,4 Z M17,20 L6,20 L6,6 L17,6 L17,20 L17,20 Z" id="Shape"/></g></g></g></svg>
-<img style="width:32px;height:32px;fill:white;" src="https://github.com/kingeser/Silent-Setup/blob/main/Copy.svg"/>
-# Move
-When this option is selected, the added application is moved to the folder.
+* **Automatic Detection of Silent Installation Parameters:** This feature allows users to install software without the need for manual input during the installation process.
+* **Category Management:** Users can organize their applications into categories for easier access and management.
 
-<img style="width:32px;height:32px;" src="https://github.com/kingeser/Silent-Setup/blob/main/Move.svg"/>
+## Application Add Modes
 
+Silent Setup offers two options for adding applications:
 
-# Report Silent Installation Parameters Not Found Applications
-Send us the setup files whose unattended installation parameters cannot be found. Support the development of the application.
+- **Copy:** A copy of the added application is made and stored in the designated folder.
 
-<img style="width:32px;height:32px;" src="https://github.com/kingeser/Silent-Setup/blob/main/Issue.svg"/>
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Copy.svg" width="32px" height="32px"/>
 
-# List Modes
+- **Move:** The added application is moved to the designated folder.
 
-Tile View
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Move.svg" width="32px" height="32px"/>
 
-<img style="width:32px;height:32px;" src="https://github.com/kingeser/Silent-Setup/blob/main/Tile.svg"/>
-<img src="https://github.com/kingeser/Silent-Setup/blob/main/App.png"/>
+## Reporting Silent Installation Parameters Not Found
 
-List View
+If Silent Setup is unable to detect the silent installation parameters for a particular application, users can report this issue to the Silent Setup team. This helps to support the development of the application and improve its functionality.
 
-<img style="width:32px;height:32px;" src="https://github.com/kingeser/Silent-Setup/blob/main/List.svg"/>
-<img src="https://github.com/kingeser/Silent-Setup/blob/main/AppList.png"/>
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Issue.svg" width="32px" height="32px"/>
 
-# Themes
+## List Modes
 
-Light Mode
+Silent Setup offers two options for viewing the list of installed applications:
+
+- **Tile View:** A visual representation of the installed applications.
+
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Tile.svg" width="32px" height="32px"/>
+
+- **List View:** A text-based list of the installed applications.
+
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/List.svg" width="32px" height="32px"/>
+
+## Themes
+
+Users can choose between two different themes:
+
+- **Light Mode:** A light-colored theme for a bright and clear user interface.
+
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/LightMode.png"/>
-Dark Mode
+
+- **Dark Mode:** A dark-colored theme for a more low-key and comfortable user experience.
 
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/DarkMode.png"/>
 
-# Menu
+## Menu
 
-Users can hide and unhide columns in a application list view. The menu can be minimized for ease of use.Settings are automatically saved for future sessions. 
+The Silent Setup menu allows users to customize the application list view, including the ability to hide and unhide columns. The menu can be minimized for ease of use and settings are automatically saved for future sessions.
 
-<img src="https://github.com/kingeser/Silent-Setup/blob/main/Menu.png"/>
-<img src="https://github.com/kingeser/Silent-Setup/blob/main/ColumnCustomization.png"/>
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Menu.png"/> <img src="https://github.com/kingeser/Silent-Setup/blob/main/ColumnCustomization.png"/>
 
-# Categories
+## Categories
 
-You can create categories for your applications and make access easier.
+Users can create categories for their applications, making it easier to organize and access them.
+
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/Category.png"/>
 
-# Logs
+## Logs
 
-You can view the logs of your transactions in the application.
+Silent Setup allows users to view the logs of their transactions, providing a record of all actions taken in the application.
+
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/Logs.png"/>
+
+## Conclusion
+
+Silent Setup is an ideal solution for professional users who value efficiency and organization in their work. With its powerful features and user-friendly interface, Silent Setup streamlines the installation process and provides a seamless user experience.
