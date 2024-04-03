@@ -5,3 +5,8 @@ It offers an infrastructure that automatically detects silent installation param
 
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/App.png"/>
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/AppList.png"/>
+
+
+Theme Light Mode / Dark Mode
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/LightMode.png"/>
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/DarkMode.png"/>
