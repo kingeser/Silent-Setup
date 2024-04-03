@@ -15,3 +15,15 @@ Light Mode
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/LightMode.png"/>
 Dark Mode
 <img src="https://github.com/kingeser/Silent-Setup/blob/main/DarkMode.png"/>
+
+# Menu Mini
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Menu.png"/>
+
+# Categories
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Category.png"/>
+
+# Logs
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/Logs.png"/>
+
+# Customizations
+<img src="https://github.com/kingeser/Silent-Setup/blob/main/ColumnCustomization.png"/>
