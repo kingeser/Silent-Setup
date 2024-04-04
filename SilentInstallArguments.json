@@ -61,7 +61,7 @@
   },
   {
     "keywords": ["anydesk"],
-    "arguments": "--install 'C:\Program Files\AnyDesk' --create-shortcuts --create-desktop-icon --silent"
+    "arguments": "--install \"C:\Program Files\AnyDesk\" --create-shortcuts --create-desktop-icon --silent"
   },
   {
     "keywords": ["adobe"],
