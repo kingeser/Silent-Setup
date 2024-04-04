@@ -1,0 +1,137 @@
+[
+  {
+    "keywords": ["msi"],
+    "arguments": "/qn /norestart"
+  },
+  {
+    "keywords": ["msixbundle", "msix"],
+    "arguments": "-ForceApplicationShutdown"
+  },
+  {
+    "keywords": ["installshield"],
+    "arguments": "/s"
+  },
+  {
+    "keywords": ["inno"],
+    "arguments": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+  },
+  {
+    "keywords": ["nsis"],
+    "arguments": "/S"
+  },
+  {
+    "keywords": ["winzip", "sfx"],
+    "arguments": "/auto"
+  },
+  {
+    "keywords": ["7z", "sfx"],
+    "arguments": "-gm2"
+  },
+  {
+    "keywords": ["winrar", "sfx"],
+    "arguments": "/auto /S"
+  },
+  {
+    "keywords": ["factory"],
+    "arguments": "/S"
+  },
+  {
+    "keywords": ["sfxcab"],
+    "arguments": "-s"
+  },
+  {
+    "keywords": ["wix", "toolset"],
+    "arguments": "/quiet"
+  },
+  {
+    "keywords": ["setup", "launcher"],
+    "arguments": "/qn /norestart"
+  },
+  {
+    "keywords": ["bitrock", "installer"],
+    "arguments": "--mode unattended"
+  },
+  {
+    "keywords": ["internet", "download", "manager", "installer"],
+    "arguments": "/skipdlgs"
+  },
+  {
+    "keywords": ["7-zip", "installer"],
+    "arguments": "/S"
+  },
+  {
+    "keywords": ["anydesk"],
+    "arguments": @"--install ""C:\Program Files\AnyDesk"" --create-shortcuts --create-desktop-icon --silent"
+  },
+  {
+    "keywords": ["adobe"],
+    "arguments": "/sAll"
+  },
+  {
+    "keywords": ["virtualbox", "installer"],
+    "arguments": "-silent"
+  },
+  {
+    "keywords": ["kaspersky"],
+    "arguments": "/s /qn"
+  },
+  {
+    "keywords": ["irfanview"],
+    "arguments": "/silent /desktop=1 /group=1 /allusers=1"
+  },
+  {
+    "keywords": ["box stub"],
+    "arguments": "/q /norestart"
+  },
+  {
+    "keywords": ["zoominstaller"],
+    "arguments": "/qn /norestart"
+  },
+  {
+    "keywords": ["oracle", "java"],
+    "arguments": "/s"
+  },
+  {
+    "keywords": ["brave", "setup"],
+    "arguments": "/silent /install"
+  },
+  {
+    "keywords": ["google", "setup"],
+    "arguments": "/silent /install"
+  },
+  {
+    "keywords": ["edge", "setup"],
+    "arguments": "/silent /install"
+  },
+  {
+    "keywords": ["winzip", "installer"],
+    "arguments": "/qn /norestart"
+  },
+  {
+    "keywords": ["amd", "software"],
+    "arguments": "--install"
+  },
+  {
+    "keywords": ["avira", "security"],
+    "arguments": "/remsilentnoreboot"
+  },
+  {
+    "keywords": ["fxsound", "setup"],
+    "arguments": "/exenoui /noprereqs /qn"
+  },
+  {
+    "keywords": ["opera", "installer"],
+    "arguments": "/install /silent /norestart /launchopera=0 /setdefaultbrowser=0 /allusers=1"
+  },
+  {
+    "keywords": ["teracopy", "installer"],"arguments": "/exenoui /noprereqs /qn"
+  },
+  {
+    "keywords": ["vnc", "installer"],
+    "arguments": "/qn /norestart"
+  },
+  {
+    "keywords": ["discord"],
+    "arguments": "-s"
+  }
+]
