@@ -133,5 +133,10 @@
   {
     "keywords": ["discord"],
     "arguments": "-s"
+  },
+  {
+"keywords":["tixati"],
+    "arguments":"/S"
+    
   }
 ]
