@@ -1,14 +1,19 @@
 [
   {
     "keywords": [
-      "msi"
+      ".msi"
     ],
     "arguments": "/qn /norestart"
   },
   {
     "keywords": [
-      "msixbundle",
-      "msix"
+      ".msixbundle"
+    ],
+    "arguments": "-ForceApplicationShutdown"
+  },
+  {
+    "keywords": [
+      ".msix"
     ],
     "arguments": "-ForceApplicationShutdown"
   },
