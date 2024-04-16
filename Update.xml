@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.7.2.1</version>
-  <url>https://github.com/kingeser/Silent-Setup/releases/download/2.7.2.1/SSSE.zip</url>
-  <changelog>https://github.com/kingeser/Silent-Setup/releases/tag/2.7.2.1</changelog>
+  <version>2.7.3.0</version>
+  <url>https://github.com/kingeser/Silent-Setup/releases/download/2.7.3.0/SSSE.zip</url>
+  <changelog>https://github.com/kingeser/Silent-Setup/releases/tag/2.7.3.0</changelog>
   <mandatory>false</mandatory>
 </item>
